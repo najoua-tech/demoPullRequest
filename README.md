@@ -1,4 +1,6 @@
 # demoPullRequest
 Noms des différentes personnes à rajouter ici:
-Najoua Ghrieb
-...Fakhreddine Dhifallah
+
+Francis Lapointe-Boutin
+Fakhreddine Dhifallah
+
